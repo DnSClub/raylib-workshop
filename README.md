@@ -3,7 +3,7 @@ Repo for DNS Raylib Workshop
 
 ### Step 1: Clone/download this repo
 ```
-git clone https://github.com/saaranganand/raylib-workshop.git
+git clone https://github.com/DnSClub/raylib-workshop.git
 ```
 Do it! 🗿
 
